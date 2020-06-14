@@ -23,5 +23,5 @@
 
 <h3 id="Buttons">▶️ Buttons</h3>
 <div align="center">
-<img src="Outputs/Button_1.gif" width="500px" />
+<img src="Outputs/Button_1.gif" width="200px" />
 </div>
