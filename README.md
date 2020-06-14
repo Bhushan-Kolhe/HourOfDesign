@@ -11,11 +11,17 @@
 
 <h2 id="Contents"> 📕 Table Of Contents </h2>
 
- * Apps
+* [Apps](#Apss)
     * [Planets App](#PlanetsApp)
+* [Buttons](#Buttons)
 
-
+<h3 id="Apps">📱 Apps</h3>
 <h3 id="PlanetsApp">Planets App</h3>
+<div align="center">
 <img src="Outputs/Planet App.gif" />
+</div>
 
-
+<h3 id="Buttons">▶️ Buttons</h3>
+<div align="center">
+<img src="Outputs/Button_1.gif" width="500px" />
+</div>
